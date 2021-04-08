@@ -1,4 +1,5 @@
 build
+gulp
 
 __MACOSX
 .Saved
@@ -15,3 +16,4 @@ node_modules
 .idea
 ex_files
 Thumbs.db
+package-lock.json
