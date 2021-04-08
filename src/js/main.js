@@ -6,6 +6,7 @@ import test from './test';
 
 documentReady(() => {
   lazyImages();
+  test();
 });
 
-test();
+
